@@ -62,7 +62,7 @@ b8cff8c9008e1c98a1f2937b4475acd6
 
 Sigue obtener el flag del root, para ello se necesita escalar en privilegios ya que nuestra usuario es limitado.
 El metodo que usaremos sera 'Abusing sudo binaries'.
-Ingresamos el comando sudo -l, este comando nos permite listar que 
+Ingresamos el comando sudo -l, este comando nos permite listar que programas podemos ejecutar con privilegio de superusuario.
 
 ![image](https://github.com/ByteKaus/HackMyVM-pwned/assets/79665766/b11842c2-65d6-4a24-bbc3-1ffaed78edb7)
 
